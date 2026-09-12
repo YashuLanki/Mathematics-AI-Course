@@ -4,4 +4,4 @@ Coursework for AIT 525 (Grand Canyon University), by Yashu Lanki.
 
 ## Projects
 
-- [`Regression/`](./Regression) — *Predicting Fish Weight Using Linear Regression*. Predicts fish weight from physical measurements (length, height, width) using both a closed-form linear regression model and a gradient-descent (SGD) optimized model, with a full comparison of performance metrics.
+- [`Week 01 - Regression/`](./Week%2001%20-%20Regression) — *Predicting Fish Weight Using Linear Regression*. Predicts fish weight from physical measurements (length, height, width) using both a closed-form linear regression model and a gradient-descent (SGD) optimized model, with a full comparison of performance metrics.
