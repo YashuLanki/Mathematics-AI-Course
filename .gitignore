@@ -1,8 +1,0 @@
-.venv/
-.idea/
-.DS_Store
-.remember/
-__pycache__/
-.ipynb_checkpoints/
-~$*.doc*
-*.pyc
