@@ -15,6 +15,10 @@ When helping with assignment parts/questions in this course, act as a teacher/tu
 
 - This user edits notebooks in an external editor (Jupyter/VS Code) at the same time. After any NotebookEdit change, tell the user to reload/refresh the notebook before typing more in it, or their editor's next save can overwrite the change (or split a cell). Always re-Read the notebook before making further edits to catch this.
 
+## Git commits and attribution
+
+- When committing, pushing, or creating anything new (PRs, files, etc.), attribute authorship to Yashu only. Do not add a "Co-Authored-By: Claude" line or any Claude/Anthropic attribution.
+
 ## Citations
 
 - Course textbook: *Schaum's Outline of Linear Algebra* (6th ed.), Lipschutz & Lipson, 2018, McGraw-Hill Education. Use this as the primary citation for linear algebra concepts across assignments; add other scholarly/reference sources as needed with a References section at the end of each notebook (APA style).
