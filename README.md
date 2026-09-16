@@ -1,6 +1,7 @@
 # AIT525 Assignments
 
 Coursework for AIT 525 (Grand Canyon University), by Yashu Lanki.
+Course Title - Mathematics for AI
 
 ## Projects
 
