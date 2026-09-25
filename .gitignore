@@ -13,4 +13,5 @@ CLAUDE.md
 *.mp4
 *.mov
 *.pdf
+!Week 04 - NLP/nlp_data/*.pdf
 Course_textbook/
