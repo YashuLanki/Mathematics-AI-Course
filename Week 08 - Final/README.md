@@ -9,3 +9,4 @@ Applies Bayes' theorem to the SMS Spam Collection (5,574 text messages, 13.4% sp
 - [`Bayes_Spam_Filter.pptx`](./Bayes_Spam_Filter.pptx) — the 12-slide presentation deck, with the narration in each slide's speaker notes.
 - `Final_Assignment.docx` — original assignment instructions (not tracked in git).
 - `script.md` — narration script for the video presentation (not tracked in git).
+- `Bayes_Spam_Filter_video.mp4` — the recorded video presentation, about 4:57 (not tracked in git).
